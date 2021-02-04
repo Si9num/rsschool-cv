@@ -27,4 +27,4 @@ return arr1==arr2 ? true:false;
 
    What about my education, I'm learning by myself. I'm read the programming books and use codewars for practise. Some experience i got on university, but my speciality had a little connect with programming.
   
-   My english level is pre-intermediate, but i'm also increase my skill in this area. 
+   My english level is pre-intermediate, but i'm also increase my skill in this area.  
