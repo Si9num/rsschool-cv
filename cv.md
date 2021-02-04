@@ -1,7 +1,7 @@
 Hello. My name is Kiril Yastremski. You can contact with me by phone(**+375447453307**) or email(yastremskykirill@gmail.com), also i have a page on vk (https://vk.com/id155624232).
 
   
-I'm a begginer on programming and i haven't the real experience, but i try very hard.
+I'm a begginer on programming and i haven't the real experience, but i'm try very hard.
 
   
 My strengths :
