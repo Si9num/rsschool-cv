@@ -2,8 +2,11 @@
   I'm a begginer on programming and i haven't the real experience, but i try very hard.
   My strengths :
 * ability to self-learning;
+
 *effective time-management;
+
 * discipline.
+
   My skills:
 *JS;
 *HTML;
