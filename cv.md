@@ -15,8 +15,8 @@ My skills:
 * CSS.
 
    There are example of my code from codewars:
-
-```var isAnagram = function(test, original) {
+ ```JavaScript
+var isAnagram = function(test, original) {
   test = test.toLowerCase();
   original = original.toLowerCase();
   let arr1= test.split("").sort().join().trim();
