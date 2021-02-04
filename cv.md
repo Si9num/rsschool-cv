@@ -12,7 +12,7 @@ My strengths :
 My skills:
 * JS;
 * HTML;
-* CSS.
+* CSS. 
 
    There are example of my code from codewars:
  ```JavaScript
